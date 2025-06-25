@@ -1,1 +1,3 @@
 # nginx_proxy
+個人用的nginx設定
+domain_name.conf根據需求調整後丟到conf.d底下
